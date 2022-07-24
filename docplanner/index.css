@@ -1,0 +1,363 @@
+body{
+    margin:0 200px;
+}
+.pic{
+    height: 68px;
+    width:268px ;
+    position: inline;
+}
+.menu{
+display: flex;
+margin: 0.8cm;
+
+
+
+}
+
+.centre{
+    text-align: center;
+    margin-top: 1cm;
+    display: block;
+}
+.navbare{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.menuitem{
+    margin-left: 0.5cm;
+    color: #ababab;
+}
+.color{
+    color: #00b39b;
+}
+
+.talus{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #00b39b;
+}
+.fother{
+    display: flex;
+    color: #747474;
+}
+.p1{
+    font-size: 16px;
+    line-height: 1cm    ;
+
+    margin: 10px;
+}
+.p2{
+    font-size: 16px;
+    line-height: 1cm    ;
+    margin: 10px;
+    
+}
+.maldumba{
+    background-color: #00ccb1;
+    color: white;
+    padding: 2em;
+    border-radius: 10px;
+    margin:1px ;
+    flex-direction: column;
+    display: flex;
+    justify-content: space-between;
+}
+.makoa{
+    background-color: #3d83df;
+    color: white;
+    padding: 2em;
+    border-radius: 10px;
+    margin: 1px;
+    flex-direction: column;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+.vora{
+   background-color: #1b2734;
+   color: white;
+   padding: 2em;
+   border-radius: 10px;
+   margin:1px   ;
+   flex-direction: column;
+   display: flex;
+   justify-content: space-between;
+}
+
+
+.fernando{
+    display: flex;
+    
+
+    
+}
+.icon{
+    height: 24px;
+    width: 24px;
+}
+.inara{
+    margin-top: 1.5cm;
+   
+    
+}
+.vatu{
+    display: flex;
+}
+.point{
+   
+    background-color: #3d83df;
+    font-family: arial,sans-serif;
+    
+    
+   display: flex;
+   flex-direction: column-reverse;
+   
+
+    cursor: pointer;
+    border-radius: 7px;
+    
+    
+    
+
+   
+    
+    
+  
+    
+    
+}
+.point2{
+   
+    background-color: #3d83df;
+    font-family: arial,sans-serif;
+    
+    
+   display: flex;
+   flex-direction: column-reverse;
+   
+
+    cursor: pointer;
+    border-radius: 7px;
+    
+    flex-wrap: nowrap;
+
+
+   
+    
+    
+  
+    
+    
+}
+.point3{
+   
+    background-color: #3d83df;
+    font-family: arial,sans-serif;
+    
+   
+   display: flex;
+   flex-direction: column-reverse;
+   
+
+    cursor: pointer;
+    border-radius: 7px;
+ 
+    flex-wrap: nowrap;  
+    
+}
+.point4{
+    
+    background-color: #3d83df;
+    font-family: arial,sans-serif;
+    
+   
+   display: flex;
+   flex-direction: column-reverse;
+   
+
+    cursor: pointer;
+    border-radius: 7px;
+ 
+    flex-wrap: nowrap;  
+        
+}
+.point5{
+    background-color: #3d83df;
+    font-family: arial,sans-serif;
+    
+   
+   display: flex;
+   flex-direction: column-reverse;
+   
+
+    cursor: pointer;
+    border-radius: 7px;
+ 
+    flex-wrap: nowrap;  
+}
+.point6{
+    background-color: #3d83df;
+    font-family: arial,sans-serif;
+    
+   
+   display: flex;
+   flex-direction: column-reverse;
+   
+
+    cursor: pointer;
+    border-radius: 7px;
+ 
+    flex-wrap: nowrap;  
+}
+.point7{
+    background-color: #3d83df;
+    font-family: arial,sans-serif;
+    
+   
+   display: flex;
+   flex-direction: column-reverse;
+   
+
+    cursor: pointer;
+    border-radius: 7px;
+ 
+    flex-wrap: nowrap;  
+}
+.point8{
+    background-color: #3d83df;
+    font-family: arial,sans-serif;
+    
+   
+   display: flex;
+   flex-direction: column-reverse;
+   
+
+    cursor: pointer;
+    border-radius: 7px;
+ 
+    flex-wrap: nowrap;  
+}
+.point9{
+    background-color: #3d83df;
+    display: flex;
+    border-radius: 7px;
+    cursor: pointer;
+    
+}
+.dispaly{
+   
+   display: inline;
+   display: flex;
+   flex-direction: column-reverse;
+
+
+}
+
+
+
+.start{
+    margin-right: 0.70cm;
+    font-size: 1.125em;
+    font-weight: 400;
+    line-height: 1.6666666667;
+    padding: 1.1111111111em;
+    outline: 0;
+    cursor: pointer;
+    
+    
+}
+.mid{
+    margin-right: 0.70cm;
+    font-size: 1.125em;
+    font-weight: 400;
+    line-height: 1.6666666667;
+    padding: 1.1111111111em;
+    cursor: pointer;
+}
+.end{
+    margin-right: 0.70cm;
+    font-size: 1.125em;
+    font-weight: 400;
+    line-height: 1.6666666667;
+    padding: 1.1111111111em;
+    cursor: pointer;
+}
+    .s{
+        border-radius: 7px;
+    }
+    .b{
+        border-radius: 7px; 
+    }
+    .m{
+        border-radius: 7px;
+    }
+    .i{
+        border-radius: 7px;
+    }
+    .r{border-radius: 7px;}
+    .c{border-radius: 7px;}
+    .e{border-radius: 7px;}
+    .revolver{
+        margin-left: 4px;
+        font-size: 1.125em;
+    font-weight: 400;
+    line-height: 1.6666666667;
+    padding: 1.1111111111em;
+    cursor: pointer;
+    }
+    .androxus{
+        display: flex;
+    }
+    .reversal{
+        margin-left:1cm;
+        font-size: 1.125em;
+    font-weight: 400;
+    line-height: 1.6666666667;
+    padding: 1.1111111111em;
+    cursor: pointer;
+      
+    }
+    .fist{
+        margin-left: 4px;
+        font-size: 1.125em;
+    font-weight: 400;
+    line-height: 1.6666666667;
+    padding: 1.1111111111em;
+    cursor: pointer;
+    
+    }
+   
+.meave{
+    display: flex;
+}
+.pounce{
+    margin-left: 4px;
+        font-size: 1.125em;
+    font-weight: 400;
+    line-height: 1.6666666667;
+    padding: 1.1111111111em;
+    cursor: pointer;
+   
+    
+}
+.street{
+    margin-left: 2cm;
+        font-size: 1.125em;
+    font-weight: 400;
+    line-height: 1.6666666667;
+    padding: 1.1111111111em;
+    
+    margin-top: 0;
+    margin-left: 1cm;
+    cursor: pointer;
+
+}
+.h1{
+    text-align: center;
+    font-size: 30px;
+    color: #333;
+    margin-bottom: 0.75em;
+}
